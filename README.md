@@ -1,40 +1,25 @@
-## Hi there 👋
 
-<!--
-**codehog96/codehog96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm [Nabina]!
  
-Welcome to my GitHub profile! I'm a passionate [Your Role or Field] who loves working on innovative projects and exploring new technologies.
+Welcome to my GitHub profile! I'm a passionate [Data Analyst] who loves working on innovative projects and exploring new technologies.
  
 ---
  
 ## 🌟 About Me
 - 🔭 I’m currently working on **AIML Bootcamp(#)**
-- 🌱 Learning **[Skill or Technology]**
-- 💬 Ask me about **[Your Area of Expertise]**
-- 📫 Reach me at: **[Your Email]**
+- 🌱 Learning **[Python, SQL, PowerBI, Tableau, AI]**
+- 💬 Ask me about **[Data Analytics]**
+- 📫 Reach me at: **[bknabina96@gmail.com]**
 - ⚡ Fun fact: **[Something Interesting About You]**
  
 ---
  
 ## 🛠️ My Tech Stack
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![Docker](https://img.shields.io/badge/Docker-Containerization-blue)
-![React](https://img.shields.io/badge/React-Framework-lightblue)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-orange)
+![SQL](https://img.shields.io/badge/SQL-yellow)
+![PowerBI](https://img.shields.io/badge/PowerBI-blue)
+![Tableau](https://img.shields.io/badge/Tableau-lightblue)
+![Machine-Learning](https://img.shields.io/badge/Machine-Learning-orange)
  
 ---
  
