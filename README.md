@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate [Data Analyst] who loves working 
 - 🌱 Learning **[Python, SQL, PowerBI, Tableau, AI]**
 - 💬 Ask me about **[Data Analytics]**
 - 📫 Reach me at: **[bknabina96@gmail.com]**
-- ⚡ Fun fact: **[Something Interesting About You]**
+- ⚡ Fun fact: **[I love challenges]**
  
 ---
  
@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate [Data Analyst] who loves working 
  
 ## 🚀 Featured Projects
 Here are some of my best works:
-1. [**Project 1**](https://github.com/YourUsername/YourRepo)  
+1. [**Project 1**](https://github.com/codehog96/codehog96)  
    _Description: A brief explanation of what the project does._
  
 2. [**Project 2**](https://github.com/YourUsername/YourRepo)  
@@ -39,13 +39,13 @@ Here are some of my best works:
 ## 📊 GitHub Stats
  
 ### 🔥 Streaks & Contributions
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codehog96&theme=dark)
  
 ### 🌟 Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=YourUsername&theme=dracula)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=codehog96&theme=dracula)
  
 ### 📈 Detailed Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codehog96&show_icons=true&theme=radical)
  
 ### 🖥️ Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codehog96&layout=compact&theme=radical)
