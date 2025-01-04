@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate [Data Analyst] who loves working 
  
 ## 🚀 Featured Projects
 Here are some of my best works:
-1. [**Project 1**](https://github.com/codehog96/codehog96)  
+1. [**Project 1**](https://github.com/codehog96/https://github.com/takeo-quantumleap/bda66-imdb-movie-reviews-scraping-cleaning-the-movie-ratings-bda66-imdb-s151541)  
    _Description: A brief explanation of what the project does._
  
 2. [**Project 2**](https://github.com/YourUsername/YourRepo)  
