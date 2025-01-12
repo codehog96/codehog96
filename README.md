@@ -53,9 +53,9 @@ Here are some of my best works:
 ---
  
 ## 📚 Latest Blog Posts
-- [**Blog Post 1**](#): How to Ace Data Science Interviews.
-- [**Blog Post 2**](#): Introduction to Flask for Beginners.
-- [**Blog Post 3**](#): My Experience Building a Dockerized Web App.
+- [**Blog Post 1**](#): 
+- [**Blog Post 2**](#): 
+- [**Blog Post 3**](#): 
  
 ---
  
