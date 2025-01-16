@@ -60,14 +60,10 @@ Here are some of my best works:
 ---
  
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?logo=linkedin)](https://linkedin.com/in/YourProfile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nabina B K-blue?logo=linkedin)](https://linkedin.com/in/www.linkedin.com/in/nabina-b-k-14b612341)
 [![Twitter](https://img.shields.io/badge/Twitter-YourHandle-blue?logo=twitter)](https://twitter.com/YourHandle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-YourWebsite-lightblue)](https://YourWebsite.com)
  
 ---
- 
-## 🏆 Achievements
-- 🏅 Winner of [Hackathon Name](#) for [Project Name].
-- 🚀 Successfully deployed [Project Name](#) using [Technology Stack].
-- 📜 Published [Research Paper Title](#) in [Journal Name].
+
  
